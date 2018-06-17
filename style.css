@@ -1,0 +1,48 @@
+/*
+Theme Name: oki2a24.com, Twenty Fourteen Child
+Theme URI: http://oki2a24.com/
+Description: Twenty Fourteen テーマを基にした子テーマです。
+Author: oki2a24.com
+Author URI: http://oki2a24.com/
+Template: twentyfourteen                    
+Version: 1.1
+*/
+@import url("../twentyfourteen/style.css");
+
+.entry-title {
+        font-size: 33px;
+        font-weight: 300;
+        line-height: 1.0909090909;
+        margin-bottom: 12px;
+        margin: 0 0 12px 0;
+        text-transform: none;
+}
+
+.entry-meta {
+        clear: both;
+        color: #767676;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.3333333333;
+        text-transform: none;
+}
+
+.cat-links {
+        font-weight: 900;
+        text-transform: none;
+}
+
+.entry-meta .tag-links a {
+        background-color: #767676;
+        border-radius: 0 2px 2px 0;
+        color: #fff;
+        display: inline-block;
+        font-size: 11px;
+        font-weight: 700;
+        line-height: 1.2727272727;
+        margin: 2px 4px 2px 10px;
+        padding: 3px 7px;
+        position: relative;
+        text-transform: none;
+}
+
